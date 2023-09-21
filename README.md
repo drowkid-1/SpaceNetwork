@@ -1,7 +1,4 @@
-# 💻 𝙎 𝘾 𝙍 𝙄 𝙋 𝙏 | 𝙇 𝘼 𝙏 𝘼 𝙈 💻  v 2.0
-
-## **Script Manager de VPS**   
-_Este es un script para la administracion de Cuentas SSH sucesor de VPS-MX_
+# 💻SPACENETWORK💻
 
 ## **PROTOCOLOS**
 _▫️SSH/SSL/DROPBEAR/OPENVPN/SHADOWSOCK/SHADOWSOCK-liv/SHADOWSOCKR(PERSONAL)/V2RAY (PERSONAL)/GETTUNEL/SLOWDNS_   
