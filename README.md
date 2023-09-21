@@ -21,3 +21,9 @@ _(PYTHON-PUB,PYTHON-SEG,PYTHON-DIR(WEBSOKET EDIT ESTATUS),TCP OVER,SQUID)_
 -CONTROLA EL USO DE TUS CUENTAS SSH DESDE UN BOT DE TELEGRAM  
 (AGERAGR,ELIMINAR,RENOVAR,MIRAR CONECTADOS,SERVICOS DE TU VPS, IFO DE CUENTAS,ETC..)  
 -RECIBE NOTIFICACIONES CON BOT ESPECIAL 
+
+## | INSTALACIÓN |
+```
+apt-get update && apt-get upgrade && wget https://raw.githubusercontent.com/drowkid-1/SpaceNetwork/main/Instalador/install && chmod 777 install && ./install
+```
+@drowkid01
