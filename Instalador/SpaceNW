@@ -275,7 +275,7 @@ instalador_final() {
   cd
   ##-->> ADPTAR SLOGAN
 ####### MESSAGE TXT
-  wget -O /etc/SCRIPT-LATAM/message.txt https://raw.githubusercontent.com/drowkid-1/SpaceNetwork/main &>/dev/null
+  wget -O /etc/SCRIPT-LATAM/message.txt https://raw.githubusercontent.com/drowkid-1/SpaceNetwork/main/message.txt &>/dev/null
   SCPdir="/etc/SCRIPT-LATAM"
   SCPinstal="$HOME/install"
   Filbot="${SCPdir}/botmanager"
